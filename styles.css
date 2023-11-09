@@ -7,7 +7,7 @@
 
 nav{
 
-    background-color: rgb(240, 237, 227);
+    background-color: rgba(240, 237, 227, 0.443);
     padding-top: 20px;
     padding-left: 80px;
     padding-bottom: 10px
@@ -334,8 +334,12 @@ nav ul li .nav_down li{
     padding-bottom: 10px;
 }
 
+.tenth ul{
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.457);
+}
+
 .tenth ul li{
-    color: rgba(0, 0, 0, 0.792);
     padding-left: 40px;
     list-style: none;
     padding-top: 10px;
