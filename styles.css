@@ -6,6 +6,7 @@
 
 
 nav{
+
     background-color: rgb(240, 237, 227);
     padding-top: 20px;
     padding-left: 80px;
@@ -27,7 +28,18 @@ nav ul li lismall{
     font-size: 25px;
     color: rgb(61, 202, 234);
     font-weight: 100;
+    padding-left: 10px;
     
+}
+
+nav ul li .nav_down{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: rgba(0, 0, 0, 0.598);
+}
+
+nav ul li .nav_down li{
+    font-size: 17px;
 }
 
 .p_first{
@@ -192,6 +204,18 @@ nav ul li lismall{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.seventh ul{
+    padding-top: 10px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.457);
+}
+
+.seventh ul li{
+    padding-top: 10px;
+    font-size: 18px;
+    list-style: none;
+}
 
 .seventh table tr th{
     padding-bottom: 10px;
@@ -224,6 +248,19 @@ nav ul li lismall{
     font-size: 30px;
     padding-bottom: 35px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.eigth ul{
+    padding-top: 10px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.457);
+}
+
+.eigth ul li{
+    padding-top: 10px;
+    font-size: 18px;
+    list-style: none;
 }
 
 .eigth table .table-title th{
@@ -366,28 +403,31 @@ nav ul li lismall{
 
 .bottom .left_footer{
     
-    padding-left: 150px;
+    padding-left: 200px;
     padding-right:50px ;
     
 
 }
 .bottom .left_footer p{
-    font-size: 20px;
+    font-size: 22px;
     color: rgba(0, 0, 0, 0.918);
     padding-bottom: 10px;
+    font
 }
 .bottom .left_footer  li{
    font-size: 18px; 
    list-style: none;
+   padding-top: 2px;
 }
 
 .bottom .answer{
-    padding-top: 30px;
+    padding-top: 37px;
 }
 
 .bottom .answer  li{
     list-style: none;
     font-size: 18px;
+    padding-top: 2px;
 }
 
 .bottom .address{
